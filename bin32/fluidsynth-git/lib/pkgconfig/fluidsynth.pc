@@ -1,4 +1,4 @@
-prefix=/home/joshu/fluidsynth/bin/64/fluidsynth-git
+prefix=/home/joshu/fluidsynth/bin/32/fluidsynth-git
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
